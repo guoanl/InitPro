@@ -1,0 +1,8 @@
+#忽略bootstrap文件夹
+bootstrap-3.4.1-dist/
+#忽略Jquery
+javascript/jquery-3.6.1.min.js
+javascript/axios.min.js
+javascript/template-web.js
+css/normalize.css
+.git/
